@@ -92,7 +92,7 @@ ggplot(df_month, aes(x = Month, y = ArrMeanDelay)) +
   theme_classic()  
 
 
-#Q1c Anwer - Looking at the graph it seems like April is the  best month to avoid delay
+#Q1c Anwer - Looking at the graphs it seems like April is the  best month to avoid delay
 
 #--------------------------------------------------------------------------------------------------------------
 
